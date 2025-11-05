@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/Debug/5k3v595y/arm64-v8a'
+ninja: no work to do.

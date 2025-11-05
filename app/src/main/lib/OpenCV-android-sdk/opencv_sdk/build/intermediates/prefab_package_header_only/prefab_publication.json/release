@@ -1,0 +1,17 @@
+{
+  "installationFolder": "/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/build/intermediates/prefab_package/release/prefab",
+  "gradlePath": ":opencv_sdk",
+  "packageInfo": {
+    "packageName": "opencv_sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/native/jni/include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

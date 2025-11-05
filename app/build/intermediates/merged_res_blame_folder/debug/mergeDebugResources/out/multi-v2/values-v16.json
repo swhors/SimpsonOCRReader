@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.simpson.ocrreader02.app-mergeDebugResources-46:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/aimmo-aip-0164/.gradle/caches/8.13/transforms/2af70d90c36eb8ceda668db196dd696c/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

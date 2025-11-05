@@ -1,0 +1,4 @@
+/Users/aimmo-aip-0164/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/Debug/5k3v595y/arm64-v8a \
+  opencv_jni_shared

@@ -1,0 +1,3 @@
+/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/Debug/5k3v595y/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/Debug/5k3v595y/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/Debug/5k3v595y/arm64-v8a/CMakeFiles/rebuild_cache.dir

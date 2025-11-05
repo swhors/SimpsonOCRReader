@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/aimmo-aip-0164/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/RelWithDebInfo/5i6u3r4m/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/aimmo-aip-0164/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/RelWithDebInfo/5i6u3r4m/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/aimmo-aip-0164/AndroidStudioProjects/OCRReader02/app/src/main/lib/OpenCV-android-sdk/opencv_sdk/.cxx/RelWithDebInfo/5i6u3r4m/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

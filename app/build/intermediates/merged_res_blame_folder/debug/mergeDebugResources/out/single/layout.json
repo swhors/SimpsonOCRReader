@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/fragment_first.xml",
+        "source": "com.simpson.ocrreader02.app-main-51:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/fragment_second.xml",
+        "source": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-main-51:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/content_main.xml",
+        "source": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-main-51:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/fragment_setup.xml",
+        "source": "com.simpson.ocrreader02.app-main-51:/layout/fragment_setup.xml"
+    },
+    {
+        "merged": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/fragment_second.xml",
+        "source": "com.simpson.ocrreader02.app-main-51:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/fragment_first.xml",
+        "source": "/Users/aimmo-aip-0164/.gradle/daemon/8.13/com.simpson.ocrreader02.app-main-51:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.simpson.ocrreader02.app-mergeDebugResources-47:/layout/content_main.xml",
+        "source": "com.simpson.ocrreader02.app-main-51:/layout/content_main.xml"
+    }
+]
